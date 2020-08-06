@@ -13,26 +13,26 @@ img{
 }
 </style>
 
-<img alt="icon" width="50px" src="Icons/flutter.png" />
-<img alt="icon" width="50px" src="Icons/html.png" />
-<img alt="icon" width="50px" src="Icons/css.png" />
-<img alt="icon" width="50px" src="Icons/js.png" />
-<img alt="icon" width="50px" src="Icons/nodejs.png" />
-<img alt="icon" width="50px" src="Icons/python.png" />
-<img alt="icon" width="50px" src="Icons/sass.png" />
-<img alt="icon" width="50px" src="Icons/php.png" />
-<img alt="icon" width="50px" src="Icons/git.png" />
-<img alt="icon" width="50px" src="Icons/github.png" />
-<img alt="icon" width="50px" src="Icons/vscode.png" />
-<img alt="icon" width="50px" src="Icons/firebase.png" />
-<img alt="icon" width="50px" src="Icons/google.png" />
-<img alt="icon" width="50px" src="Icons/mongo.png" />
-<img alt="icon" width="50px" src="Icons/mysql.png" />
-<img alt="icon" width="50px" src="Icons/terminal.png" />
-<img alt="icon" width="50px" src="Icons/ubuntu.png" />
-<img alt="icon" width="50px" src="Icons/as.png" />
-<img alt="icon" width="50px" src="Icons/dart.png" />
-<img alt="icon" width="50px" src="Icons/npm.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/flutter.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/html.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/css.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/js.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/nodejs.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/python.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/sass.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/php.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/git.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/github.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/vscode.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/firebase.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/google.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/mongo.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/mysql.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/terminal.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/ubuntu.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/as.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/dart.png" />
+<img alt="icon" width="50px" src="https://github.com/borisgrigorov/borisgrigorov/raw/master/Icons/npm.png" />
 
 <br/>
 <br/>
