@@ -38,4 +38,4 @@
 <br/>
 
 ### ☕️ If you want to support me: ###
-<a href="https://www.buymeacoffee.com/borisgrigorov" target="_blank">https://www.buymeacoffee.com/borisgrigorov</a>
+<a href="https://www.buymeacoffee.com/borisgrigorov" target="_blank">https://paypal.me/borisgri</a>
